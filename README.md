@@ -1,7 +1,7 @@
 ![abstract-php-c-analytics](https://github.com/AishaRiaz02/AishaRiaz02/assets/108547987/032fa0c1-2646-4c31-9ed8-a3abebd3903f)
 
 
-<h1 align="center">Hi 👋, I'm Aisha Riaz</h1>
+<h1 align="center">Hey! 👋 I'm Aisha Riaz</h1>
 <h3 align="center">A web development enthusiast from Pakistan</h3>
 
 
